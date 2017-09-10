@@ -29,9 +29,12 @@ zstyle ':prezto:load' pmodule \
   'editor' \
   'history' \
   'directory' \
+  'osx' \
   'spectrum' \
+  'git' \
   'utility' \
   'completion' \
+  'history-substring-search' \
   'prompt'
 
 #
